@@ -38,6 +38,9 @@ body{
     width: 87%;
 }
 
+.prices_cards{
+    margin: 150px 0;
+}
 
 
 @media(max-width: 1050px){
