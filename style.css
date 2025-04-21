@@ -57,6 +57,15 @@ body{
     width: 87%;
 }
 
+.form_bg{
+    background: url(images/photography-bg.png);
+}
+
+.question_section{
+    margin: 150px 0;
+    width: 87%;
+}
+
 
 
 @media(max-width: 1050px){
@@ -77,4 +86,7 @@ body{
     width: 95%;
    } 
    
+   .question_section{
+    width: 95%;
+   }
 }
