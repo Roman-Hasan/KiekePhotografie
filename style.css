@@ -42,6 +42,16 @@ body{
     margin: 150px 0;
 }
 
+.testimonial_section{
+    width: 85%;
+}
+
+.testimonial{
+    margin: 120px 0;
+    background: url(images/photography-bg.png);
+    padding: 2rem;
+}
+
 
 @media(max-width: 1050px){
   .large_text{
@@ -53,4 +63,9 @@ body{
     width: 95%;
    }
 
+   .testimonial_section{
+    width: 100%;
+    }
+   
+   
 }
