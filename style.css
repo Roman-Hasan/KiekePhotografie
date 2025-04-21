@@ -23,6 +23,22 @@ body{
     font-family: "Quicksand", sans-serif;
 }
 
+.Photography_section{
+    margin: 110px 0;
+    background: url(images/photography-bg.png);
+    padding: 2rem 0;
+}
+
+.photography_text{
+    font-size: 48px;
+}
+
+.Portfolio_section{
+    margin: 100px 0;
+    width: 87%;
+}
+
+
 
 @media(max-width: 1050px){
   .large_text{
@@ -30,4 +46,8 @@ body{
     line-height: 1.3;
    }
    
+   .Portfolio_section{
+    width: 95%;
+   }
+
 }
